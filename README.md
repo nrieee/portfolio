@@ -1,6 +1,6 @@
 # nrieee's Portfolio
 <p align="center">
-    <img src="images/thumb_portfolio.jpg" alt="nrieee's Portfolio" width="625">
+    <img src="images/thumb_portfolio.jpg" alt="nrieee's Portfolio" width="625">  
     「nrieee」のポートフォリオサイト / フロントエンドエンジニアのスキルを掲載しています
 </p>
 
