@@ -1,8 +1,9 @@
 # nrieee's Portfolio
 <p align="center">
-    <img src="images/thumb_portfolio.jpg" alt="nrieee's Portfolio" width="625">  
+    <img src="images/thumb_portfolio.jpg" alt="nrieee's Portfolio" width="625"><br>
     「nrieee」のポートフォリオサイト / フロントエンドエンジニアのスキルを掲載しています
 </p>
+
 
 ## 🛠️ 技術スタック
 - Nuxt 4
@@ -11,16 +12,20 @@
 - GSAP
 - PixiJS
 
+
 ## ✨ 工夫ポイント
 - Nuxt 4 & TypeScript の使用により型安全＆メンテナンス性の高い開発
 - GSAP / PixiJS を使用したイラストの魅力を引き立てる表現（イラスト制作：nrieee）
 
+
 ## 📄 License & Copyright
 このリポジトリは、ソースコードとクリエイティブ資産（イラスト等）でライセンスが異なります  
+
 
 ### ソースコード
 MIT Licenseです  
 詳細はLICENSEファイルをご確認ください
+
 
 ### イラスト・その他
 リポジトリ内に含まれる画像、イラストの著作権は制作者（nrieee）に帰属します  
@@ -28,6 +33,7 @@ MIT Licenseです
 - 無断転載・複製・二次配布・改変の禁止
 - AI学習（画像生成AI等）への利用禁止
 - ポートフォリオとしての閲覧目的以外での使用はご遠慮ください
+
 
 ## 👋 About me
 フロントエンドエンジニアの nrieee です  
