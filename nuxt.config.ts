@@ -7,6 +7,7 @@ export default defineNuxtConfig({
   ssr: false,
   app: {
     head: {
+      title: 'FRONTEND ENGINEER nrieee',
       link: [
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }
       ],
