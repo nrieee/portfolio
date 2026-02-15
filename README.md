@@ -1,75 +1,38 @@
-# Nuxt Minimal Starter
+# nrieee's Portfolio
+<p align="center">
+    <img src="/public/images/portfolio-thumb.jpg" alt="nrieee's Portfolio" width="650"><br>
+    「nrieee」のポートフォリオサイト / フロントエンドエンジニアのスキルを掲載しています
+</p>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+## 🛠️ 技術スタック
+- Nuxt 4
+- TypeScript
+- TailWind CSS
+- GSAP
 
-Make sure to install dependencies:
 
-```bash
-# npm
-npm install
+## ✨ 工夫ポイント
+- Nuxt 4 & TypeScript の使用により型安全＆メンテナンス性の高い開発
 
-# pnpm
-pnpm install
 
-# yarn
-yarn install
+## 👋 About me
+フロントエンドエンジニアの nrieee です  
+Nuxt.jsを中心にWebサイト制作を行っています  
 
-# bun
-bun install
-```
+- Nuxt.js (v2 / v3 / v4)
+- Vuetify
+- TypeScript
+- GraphQL / REST API連携
+- Firebase (Auth / Firestore)
+- LIFFアプリ
 
-## Development Server
+状態管理や認証フロー構築を伴う制作経験があります  
 
-Start the development server on `http://localhost:3000`:
+[![スキル](https://skillicons.dev/icons?i=nuxtjs,vuetify,pinia,tailwind,firebase,netlify,github,gitlab,pnpm,ts,js,sentry,html,css,sass,pug,gulp,wordpress,notion,figma,ps,ai,xd,vscode&perline=8)](https://skillicons.dev)
 
-```bash
-# npm
-npm run dev
+### 🔥 今後獲得するスキル
+[![今後獲得するスキル](https://skillicons.dev/icons?i=react,nextjs&perline=8)](https://skillicons.dev)
 
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### 👇️ 趣味でもやってます
+[![趣味でもやってます](https://skillicons.dev/icons?i=blender,unity,pr,obsidian&perline=8)](https://skillicons.dev)
